@@ -1,3 +1,5 @@
+AWS INFRA OUTPUT DATA
+
 cluster_endpoint = "https://D5CD1A40F4C92BCBE175F7F83E96E17D.gr7.ca-central-1.eks.amazonaws.com"
 cluster_name = "awssreactions-eks"
 cluster_platform_version = "eks.28"
