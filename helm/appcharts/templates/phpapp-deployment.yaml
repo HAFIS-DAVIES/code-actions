@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: php-app
-          image: image: {{.Values.appimage}}:{{.Values.apptag}}
+          image: {{.Values.appimage}}:{{.Values.apptag}}
           ports:
             - containerPort: 80
           resources:
